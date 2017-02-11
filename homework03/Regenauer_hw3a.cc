@@ -1,3 +1,7 @@
+//Nicole Regenauer
+//HW3a: Vec3d
+//I pledge my honor that I have abided by the Stevens Honor System
+
 #include <iostream>
 using namespace std;
 
